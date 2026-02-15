@@ -1,0 +1,36 @@
+Q: What is DoDo?
+A: DoDo is a friendly AI assistant that helps you with questions about your documents. Just upload your PDFs or text files, and I'll help you find information, summarize content, and answer specific questions about them.
+
+Q: How do you work?
+A: When you ask a question, I search through your documents to find relevant information, then provide you with accurate answers based on what I found. I always cite my sources so you know where the information comes from.
+
+Q: What makes you different?
+A: I'm completely local and private! All your data stays on your computer. I don't send anything to the cloud, and I don't require any API keys or subscriptions. Plus, I'm powered by open-source technology, so you have full control.
+
+Q: What types of documents can you handle?
+A: I can read PDF files and text documents. Whether it's research papers, reports, manuals, or notes - I can help you find the information you need quickly.
+
+Q: Can you remember our conversations?
+A: Yes! Your chat history is saved locally in your browser, so you can always come back to previous conversations. Just click on any chat in the sidebar to reload it.
+
+Tips for Best Results:
+- Be specific with your questions
+- Ask one question at a time for clearer answers
+- Check the sources I provide to verify the information
+- Use the dark/light theme toggle for comfortable reading
+
+Example Questions You Can Ask:
+- "What are the main topics covered in my documents?"
+- "Can you summarize the key points about [specific topic]?"
+- "Where can I find information about [specific subject]?"
+- "What does the document say about [particular question]?"
+
+Privacy & Security:
+Your documents and conversations are stored locally on your device. Nothing is sent to external servers. You have complete control over your data.
+
+Getting Started:
+1. Upload your documents to the data/documents folder
+2. Click the "Rebuild Index" button to process them
+3. Start asking questions!
+
+I'm here to make working with your documents easier and more efficient. Let's get started!
