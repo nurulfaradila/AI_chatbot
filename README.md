@@ -142,20 +142,20 @@ Primary endpoint for interacting with the document assistant.
 **Request Body:**
 ```json
 {
-  "question": "What are the main findings in the Q4 report?",
-  "k": 4
+  "question": "What is DoDo?",
+  "k": 3
 }
 ```
 
 **Response Body:**
 ```json
 {
-  "answer": "The Q4 report highlights a 15% increase in...",
+  "answer": "DoDo is a friendly local AI assistant that helps you query your documents privately. It uses RAG technology to find information and answer questions without your data leaving your machine.",
   "sources": [
     {
-      "content": "...increase in net revenue by 15%...",
-      "source": "data/documents/report.pdf",
-      "page": 12
+      "content": "DoDo is a friendly AI assistant that helps you with questions about your documents...",
+      "source": "data/documents/sample.txt",
+      "page": null
     }
   ]
 }
